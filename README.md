@@ -2,7 +2,7 @@
 
 Utilities for working with ethereum private keys.
 
-Live demo: [eth-key-utils](https://elxor.github.io/eth-key-utils)
+Live demo: [eth-key-utils](https://eldaruma.github.io/eth-key-utils)
 
 For security, use these utilities only offline. 
 
