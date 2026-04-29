@@ -10,7 +10,7 @@ You can download this app to your computer and run it without the Internet.
 
 ## Downloading and Running EthKeyUtils Offline
 
-Step 1. Start by [downloading the latest release of EthKeyUtils](https://github.com/elxor/eth-key-utils/releases).
+Step 1. Start by [downloading the latest release of EthKeyUtils](https://github.com/eldaruma/eth-key-utils/releases).
 
 Step 2. Click on EthKeyUtils-vX.X.X.zip to download the file.
 
