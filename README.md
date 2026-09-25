@@ -2,8 +2,6 @@
 
 Utilities for working with ethereum private keys.
 
-Live demo: [eth-key-utils](https://eldaruma.github.io/eth-key-utils)
-
 For security, use these utilities only offline. 
 
 You can download this app to your computer and run it without the Internet.
